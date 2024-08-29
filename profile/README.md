@@ -1,16 +1,16 @@
 # 봉담읍 온라인 마을안전지도
 
-2024-2 인터넷보안프로젝트
+2024-2 수원대학교 정보보호학과 2학년 인터넷보안프로젝트
 
 조원 명단(가나다순)
 
-[김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, (프론트엔드 개발 지원)
+23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, (프론트엔드 개발 지원)
 
-[박현우](https://github.com/Dustsw) - 백엔드 개발
+21018104 [박현우](https://github.com/Dustsw) - 백엔드 개발
 
-[윤재서](https://github.com/yjs0214) - 백엔드 및 프론트엔드 개발
+21018058 [윤재서](https://github.com/yjs0214) - 백엔드 및 프론트엔드 개발
 
-[조유란](https://github.com/yuranjo13) - 프론트엔드 개발
+21018087 [조유란](https://github.com/yuranjo13) - 프론트엔드 개발
 
 ## 요약
 
