@@ -42,6 +42,7 @@
 ## 기타
 
 - 이 프로젝트의 수행과 관련하여, 봉담읍 주민자치회(안전네트워크분과)의 허락을 받았습니다.
+- [웹사이트 디자인 예시안](https://github.com/bongdam-safety/documents/blob/main/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%98%88%EC%8B%9C%EC%95%88/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%98%88%EC%8B%9C%EC%95%88.pdf)
 
 <!-- ## Hi there 👋 -->
 
