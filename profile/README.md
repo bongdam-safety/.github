@@ -4,13 +4,13 @@
 
 조원 명단(가나다순)
 
-23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, (프론트엔드 개발 지원)
+23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, 프론트엔드 개발 지원, 학생-주민자치회 협력
 
-21018104 [박현우](https://github.com/Dustsw) - 백엔드 개발
+21018104 [박현우](https://github.com/Dustsw) - 백엔드 개발, 프론트엔드 개발 지원
 
-21018058 [윤재서](https://github.com/yjs0214) - 백엔드 및 프론트엔드 개발
+21018058 [윤재서](https://github.com/yjs0214) - 백엔드 개발, 프론트엔드 개발
 
-21018087 [조유란](https://github.com/yuranjo13) - 프론트엔드 개발
+21018087 [조유란](https://github.com/yuranjo13) - 백엔드 개발, 프론트엔드 개발
 
 ## 요약
 
