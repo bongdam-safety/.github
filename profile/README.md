@@ -4,13 +4,13 @@
 
 조원 명단(가나다순)
 
-23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, 프론트엔드 개발 지원, 학생-주민자치회 협력
+23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, 학생-주민자치회 협력
 
-21018104 [박현우](https://github.com/Dustsw) - 백엔드 개발, 프론트엔드 개발 지원
+21018104 [박현우](https://github.com/Dustsw) - AI 개발
 
-21018058 [윤재서](https://github.com/yjs0214) - 백엔드 개발, 프론트엔드 개발
+21018058 [윤재서](https://github.com/yjs0214) - 백엔드 개발
 
-21018087 [조유란](https://github.com/yuranjo13) - 백엔드 개발, 프론트엔드 개발
+21018087 [조유란](https://github.com/yuranjo13) - 프론트엔드 개발
 
 ## 요약
 
@@ -41,7 +41,7 @@
 
 ## 기타
 
-- 이 프로젝트의 수행과 관련하여, 봉담읍 주민자치회(안전네트워크분과)의 허락을 받았습니다.
+- 이 프로젝트의 수행과 관련하여, [봉담읍 주민자치회](http://bongdamcenter.com/)(안전네트워크분과)의 허락을 받았습니다.
 - [웹사이트 디자인 예시안](https://github.com/bongdam-safety/documents/blob/main/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%98%88%EC%8B%9C%EC%95%88/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EC%98%88%EC%8B%9C%EC%95%88.pdf)
 
 <!-- ## Hi there 👋 -->
