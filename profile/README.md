@@ -4,13 +4,13 @@
 
 조원 명단(가나다순)
 
-23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, 학생-주민자치회 협력
+23017012 [김명규](https://github.com/mgkim1) - 조장, 백엔드 개발, 학생-주민자치회 협력 (주전공 컴퓨터SW)
 
-21018104 [박현우](https://github.com/Dustsw) - AI 개발
+21018104 [박현우](https://github.com/Dustsw) - AI 개발, 아두이노 개발
 
 21018058 [윤재서](https://github.com/yjs0214) - 백엔드 개발
 
-21018087 [조유란](https://github.com/yuranjo13) - 프론트엔드 개발
+21018087 [조유란](https://github.com/yuranjo13) - 프론트엔드 개발(React)
 
 ## 요약
 
